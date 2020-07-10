@@ -20,3 +20,4 @@ npm install redux --save
 npm i redux-thunk --save
 npm install semantic-ui-react --save
 npm install react-router-dom --save"# CharacterCreator" 
+"# test" 
